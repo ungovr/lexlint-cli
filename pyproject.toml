@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "lexlint"
-version = "0.0.1"
+version = "0.0.2"
 description = "A placeholder for the LexLint command line, which is not released yet."
 readme = "README.md"
 requires-python = ">=3.11"

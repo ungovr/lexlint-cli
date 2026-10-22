@@ -8,7 +8,7 @@ from __future__ import annotations
 
 import sys
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 NOTICE = ("lexlint {version} is a placeholder: the LexLint command line is not released yet, "
           "so nothing was linted. See https://lexlint.io for how to run LexLint today.")
